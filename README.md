@@ -7,6 +7,6 @@ Nyní vyvíjíme
 
 ## Nadpis 2
 
-- krásný popis 
+- krásný popis Úprava z githubu
 
 ## Nadpis 3
