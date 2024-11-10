@@ -7,4 +7,6 @@ Nyní vyvíjíme
 
 ## Nadpis 2
 
+- krásný popis 
+
 ## Nadpis 3
