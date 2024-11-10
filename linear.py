@@ -2,4 +2,4 @@
 
 print("Linear")
 
-/fdsa
+print(f"Aktuální čas je {datetime.now()}")
